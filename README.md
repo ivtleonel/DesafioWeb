@@ -14,7 +14,7 @@ Ferramentas usadas na automação:
 NOTA:
 Este projeto de teste não atende por completo as boas praticas de programação.
 Pois o mapeamento dos elementos que eram para sere feitos na classe PageObjects estão na classe de test,
-assim como a contrução do driver que era pra ser em uma classe DriverFectory também esta sendo usado na classe de test
+assim como a construção do driver que era pra ser em uma classe DriverFectory também esta sendo usado na classe de test
 
 
 COMO EXECUTAR O TESTE
